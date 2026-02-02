@@ -1,10 +1,10 @@
-Shared Cognitive State in Human–LLM Interaction  
-Failure Modes, Risk Surfaces, and Structural Implications  
+# Shared Cognitive State in Human–LLM Interaction  
+## Failure Modes, Risk Surfaces, and Structural Implications  
 
-Author: Alan Friar  
-Organization: EnBra Group  
-Version: 1.0  
-Date: 2026-02-01  
+**Author:** Alan Friar  
+**Organization:** EnBra Group  
+**Version:** 1.0  
+**Date:** 2026-02-01  
 
 ---
 
