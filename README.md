@@ -1,5 +1,6 @@
 Shared Cognitive State in Human–LLM Interaction
 Failure Modes, Risk Surfaces, and Structural Implications
+
 Author: Alan Friar
 Organization: EnBra Group
 Version: 1.0
@@ -18,8 +19,9 @@ Contents
 
 Citation
 If referencing this work, please cite as:
+
 Friar, A. (2026). Shared Cognitive State in Human–LLM Interaction: Failure Modes, Risk Surfaces, and Structural Implications.
-GitHub repository: https://github.com/alan-g-friar/<repo-name>
+GitHub repository: https://github.com/alan-g-friar/shared-cognitive-state-human-llm
 Version 1.0
 
 Status
