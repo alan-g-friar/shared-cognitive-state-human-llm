@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18487677.svg)](https://doi.org/10.5281/zenodo.18487677)
+
 # Shared Cognitive State in Human–LLM Interaction
 ## Failure Modes, Risk Surfaces, and Structural Implications
 
