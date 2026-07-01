@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Shared Cognitive State in Human–LLM Interaction: Failure Modes, Risk Surfaces, and Structural Implications"
+version: 1.0
+date-released: 2026-02-01
+authors:
+  - family-names: Friar
+    given-names: Alan
+    orcid: "https://orcid.org/0009-0000-6986-1771"
+    affiliation: "EnBra Group LLC"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18487677"
+repository-code: "https://github.com/alan-g-friar/shared-cognitive-state-human-llm"
